@@ -233,6 +233,14 @@ local diff = {
 			},
 			["name"] = "Booster coil, button cover - open/close",
 		},
+		["d3069pnilu3069cd3vd1vpnilvu0"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN32",
+				},
+			},
+			["name"] = "Booster сoil, button - press",
+		},
 		["d3074pnilunilcd3vd-1vpnilvunil"] = {
 			["added"] = {
 				[1] = {
