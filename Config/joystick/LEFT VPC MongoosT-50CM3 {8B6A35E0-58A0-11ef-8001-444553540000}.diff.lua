@@ -161,10 +161,42 @@ local diff = {
 			},
 			["name"] = "Electric power master switch - on",
 		},
+		["d3010pnilunilcd24vd1vpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN43",
+				},
+			},
+			["name"] = "Radio Channel A",
+		},
+		["d3011pnilunilcd24vd1vpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN61",
+				},
+			},
+			["name"] = "Radio Channel B",
+		},
+		["d3012pnilunilcd24vd1vpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN67",
+				},
+			},
+			["name"] = "Radio Channel C",
+		},
+		["d3013pnilunilcd24vd1vpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN73",
+				},
+			},
+			["name"] = "Radio Channel D",
+		},
 		["d3016pnilu3016cd2vd-0.3vpnilvu0"] = {
 			["added"] = {
 				[1] = {
-					["key"] = "JOY_BTN3",
+					["key"] = "JOY_BTN17",
 				},
 			},
 			["name"] = "Trim Elevator Nose Up",
@@ -172,7 +204,7 @@ local diff = {
 		["d3016pnilu3016cd2vd0.3vpnilvu0"] = {
 			["added"] = {
 				[1] = {
-					["key"] = "JOY_BTN2",
+					["key"] = "JOY_BTN19",
 				},
 			},
 			["name"] = "Trim Elevator Nose Down",

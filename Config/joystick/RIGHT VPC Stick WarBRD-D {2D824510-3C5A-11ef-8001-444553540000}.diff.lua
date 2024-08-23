@@ -10,13 +10,13 @@ local diff = {
 		},
 	},
 	["keyDiffs"] = {
-		["d1591pnilu1592cdnilvdnilvpnilvunil"] = {
+		["d1731pnilu1731cdnilvd1vpnilvu0"] = {
 			["added"] = {
 				[1] = {
 					["key"] = "JOY_BTN5",
 				},
 			},
-			["name"] = "COMM Push to talk (call radio menu)",
+			["name"] = "COMM Push to talk (VOIP)",
 		},
 		["dnilp74u75cdnilvdnilvpnilvunil"] = {
 			["added"] = {
