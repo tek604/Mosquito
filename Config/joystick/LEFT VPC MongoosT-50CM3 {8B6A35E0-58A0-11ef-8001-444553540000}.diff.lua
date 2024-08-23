@@ -329,6 +329,22 @@ local diff = {
 			},
 			["name"] = "Fuel tank selector, starboard - next position",
 		},
+		["d3086pnilunilcd3vd0vpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN26",
+				},
+			},
+			["name"] = "Mixture - rich",
+		},
+		["d3086pnilunilcd3vd1vpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN24",
+				},
+			},
+			["name"] = "Mixture - lean",
+		},
 		["d3089pnilunilcd3vd0vpnilvunil"] = {
 			["added"] = {
 				[1] = {
