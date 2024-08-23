@@ -241,6 +241,14 @@ local diff = {
 			},
 			["name"] = "Trim Rudder Right",
 		},
+		["d3063pnilunilcd4vd1vpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN56",
+				},
+			},
+			["name"] = "Engine water cooling flaps, left - open/close",
+		},
 		["d3065pnilunilcd3vd1vpnilvunil"] = {
 			["added"] = {
 				[1] = {
@@ -249,6 +257,14 @@ local diff = {
 			},
 			["name"] = "Starter, button cover - open/close",
 		},
+		["d3065pnilunilcd4vd1vpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN57",
+				},
+			},
+			["name"] = "Engine water cooling flaps, right - open/close",
+		},
 		["d3066pnilu3066cd3vd1vpnilvu0"] = {
 			["added"] = {
 				[1] = {
@@ -256,6 +272,14 @@ local diff = {
 				},
 			},
 			["name"] = "Starter, button - press",
+		},
+		["d3067pnilunilcd4vd1vpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN58",
+				},
+			},
+			["name"] = "Air filter (tropical) - on/off",
 		},
 		["d3068pnilunilcd3vd1vpnilvunil"] = {
 			["added"] = {
