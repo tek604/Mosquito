@@ -18,6 +18,46 @@ local diff = {
 			},
 			["name"] = "COMM Push to talk (VOIP)",
 		},
+		["d3004pnilunilcd5vd1vpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN1",
+				},
+			},
+			["name"] = "Gun firing master switch - on/off",
+		},
+		["d3051pnilunilcd4vd0vpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN10",
+				},
+			},
+			["name"] = "Gun Sight power - off",
+		},
+		["d3051pnilunilcd4vd1vpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN8",
+				},
+			},
+			["name"] = "Gun Sight power - on",
+		},
+		["d350pnilu351cdnilvdnilvpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN12",
+				},
+			},
+			["name"] = "Fire Cannons",
+		},
+		["d84pnilu85cdnilvdnilvpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN3",
+				},
+			},
+			["name"] = "Fire Machineguns",
+		},
 		["dnilp74u75cdnilvdnilvpnilvunil"] = {
 			["added"] = {
 				[1] = {
