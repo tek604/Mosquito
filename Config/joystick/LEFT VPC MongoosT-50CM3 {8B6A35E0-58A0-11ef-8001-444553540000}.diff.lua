@@ -209,6 +209,14 @@ local diff = {
 			},
 			["name"] = "Trim Elevator Nose Down",
 		},
+		["d3023pnilunilcd2vd1vpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN42",
+				},
+			},
+			["name"] = "Canopy, left window - open/close",
+		},
 		["d3046pnilunilcd3vd1vpnilvunil"] = {
 			["added"] = {
 				[1] = {

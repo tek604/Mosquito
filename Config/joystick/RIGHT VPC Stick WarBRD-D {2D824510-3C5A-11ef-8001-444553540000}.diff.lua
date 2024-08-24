@@ -18,6 +18,22 @@ local diff = {
 			},
 			["name"] = "COMM Push to talk (VOIP)",
 		},
+		["d3001pnilunilcd5vd0vpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN26",
+				},
+			},
+			["name"] = "Gun firing master switch, cover - close",
+		},
+		["d3001pnilunilcd5vd1vpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN28",
+				},
+			},
+			["name"] = "Gun firing master switch, cover - open",
+		},
 		["d3004pnilunilcd5vd1vpnilvunil"] = {
 			["added"] = {
 				[1] = {
